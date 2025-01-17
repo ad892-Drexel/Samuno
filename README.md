@@ -1,2 +1,2 @@
 # Samuno
-All the files relevant to the SAMUNO Reinforcement Learning Project
+The Code the runs the GUI to test the SAMUNO platform
